@@ -2,7 +2,7 @@
 
 ## 注意
 
-> 不要 fork 此项目，清新建私有仓库！
+> 不要 fork 此项目，请新建私有仓库！
 
 ## Usage
 
@@ -26,6 +26,8 @@
 
 - `SECRETID`
 - `SECRETKEY`
+
+![](https://image.baidu.com/search/down?url=https://gzw.sinaimg.cn/mw2000/0085UwQ9ly1hts5v8jyhsj31880jyjvc.jpg)
 
 ### 使用 阿里云
 
