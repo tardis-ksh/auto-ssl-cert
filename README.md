@@ -22,6 +22,7 @@
 - `DP_KEY`：DNSpod token
 
 > 申请主账号 密钥 https://console.cloud.tencent.com/cam/capi (不推荐)
+
 > 申请子账号 密钥 [申请证书](https://ksh7.com/posts/ssl-cert-auto-deploy/#申请证书) 
 
 - `SECRETID`
@@ -56,3 +57,7 @@
 ## 手动触发 GitHub Actions
 
 手动 run 指定 actions
+
+# 使用示例
+
+> https://ksh7.com/posts/ssl-cert-auto-deploy/
