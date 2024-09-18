@@ -1,9 +1,9 @@
 name: Cloudflare SSL Certificates
 
-#on:
-#  schedule: # execute every 24 hours
-#    - cron: "35 6 * * *"
-#  workflow_dispatch:
+on:
+  schedule: # execute every 24 hours
+    - cron: "35 6 * * *"
+  workflow_dispatch:
 
 env:
     ACME: /home/runner/.acme.sh/acme.sh
