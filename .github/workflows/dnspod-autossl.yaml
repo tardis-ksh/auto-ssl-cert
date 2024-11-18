@@ -111,7 +111,7 @@ jobs:
     name: Deploy certificate to Tencent Cloud CDN
     runs-on: ubuntu-latest
     needs: issue-cert
-    if: needs.build.outputs.certificate_updated == 'true'
+    if: needs.issue-cert.outputs.certificate_updated == 'true'
 
     steps:
       - name: Check out
